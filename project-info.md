@@ -40,7 +40,7 @@ We officially begin our project development!
 
 ### MVP and Deploy: 31-01-2024
 
-You'll present your MVP - Minimum Viable Product - to the LT and CTA. MVP means you should have a working game and everything you do after this point is adding **sugar**. After the MVPs we'll deploy the games together in order to have enough time to fix any problems that might appear after the deploy.
+You'll present your MVP - Minimum Viable Product - to me and Mariana. MVP means you should have a working game and everything you do after this point is adding **sugar**. After the MVPs we'll deploy the games together in order to have enough time to fix any problems that might appear after the deploy.
 
 ### Project Presentation: 02-02-2024
 
