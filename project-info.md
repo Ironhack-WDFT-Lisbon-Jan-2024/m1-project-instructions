@@ -12,17 +12,27 @@ You'll need to send me a message on slack informing me of your group by next mon
 
 The group will need to present their game idea to the Teachers. Remember that you should answer this questions: 
 
-<b>Idea Description</b>
-What's your game about? How is it played? What is your project MVP?
+<ol>
+<li><b>Idea Description</b></li>
+<ul>
+<li>What's your game about? How is it played? What is your project MVP?</li>
+</ul>
 
-<b>Game Logic (Technical Answers)</b>
-How do you plan to implement the game logic? How will you make your player move? How will you create the obstacles? How does the game end?
+<li><b>Game Logic (Technical Answers)</b></li>
+<ul>
+<li>How do you plan to implement the game logic? How will you make your player move? How will you create the obstacles? How does the game end?</li>
+</ul>
 
-<b>Extra Features</b>
-Which extra features do you plan to implement in your game after you finish your MVP?
+<li><b>Extra Features</b></li>
+<ul>
+<li>Which extra features do you plan to implement in your game after you finish your MVP?</li>
+</ul>
 
-<b>Technical Challenges</b>
-Which logic/feature do you believe will be more challenging to implement?
+<li><b>Technical Challenges</b></li>
+<ul>
+<li>Which logic/feature do you believe will be more challenging to implement?</li>
+</ul>
+</ol>
 
 ### Project Start: 29-01-2024
 
@@ -99,4 +109,5 @@ We'll focus totally in developing the projects and me and Mariana will be here t
 - [Lisbon Crosser](https://gosamat.github.io/lisbon-crosser-js-game/)
 - [Technobots](https://brcunha3000.github.io/technobots-thegame-js-game/)
 
+<br>
 This template was originally created by one of the Part-Time Web Development Lead Teachers Lúcia Duarte. If you see her at Ironhack, say thank you 😊
